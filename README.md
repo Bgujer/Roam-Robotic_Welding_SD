@@ -20,6 +20,20 @@ The goal of this project is to develop a functional robotic welding system integ
 
 ---
 
+## Intellectual Property & Confidentiality
+
+This repository contains materials generated as part of the Colorado State University
+Senior Design Project sponsored by **Roam Electric**.
+
+All intellectual property developed for this project is assigned to Roam Electric per the
+IP agreement signed by team members.
+
+Some elements of the project may be confidential under NDA. Do not upload or disclose
+ROAM Confidential Information (designs, data, research, or business details) without
+written permission from ROAM.
+
+---
+
 ## Hardware Used
 
 | Component | Model | 
