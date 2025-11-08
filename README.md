@@ -55,4 +55,4 @@ The goal of this project is to develop a functional robotic welding system integ
 | Tamsin Izard | Project Manager | Timeline, documentation, meeting coordination |\
 | John Mizia (RPL) | Faculty Advisor | Technical oversight, weekly reviews |\
 | Bryan Willson (Energy Institute) | Sponsor | Technical oversight, weekly reviews |\
-| Wesley Holmes (ROAM) | Masters Thesis | Touchpoint for ROAM, biweekly reviews |\
+| Wesley Holmes (ROAM) | Masters Thesis | Touchpoint for ROAM, biweekly reviews |
