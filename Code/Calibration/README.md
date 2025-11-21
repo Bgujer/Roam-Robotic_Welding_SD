@@ -1,18 +1,10 @@
 # Robot Calibration
 
-- - -
-
 ## Overview
-
-- - - ;
 
 Due to slight tolerance issues, the UFactory arm might be slightly misaligned with the plane of the table. To account for this, a procedure was developed to calibrate the robot working plane. 
 
-- - - ;
-
 ## Procedure:
-
-- - - ;
 
 1. Mount Dial Indicator to end effector mount. 
 2. Run program and record plunge depth
