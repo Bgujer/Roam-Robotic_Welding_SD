@@ -6,6 +6,9 @@ This repository contains documentation, source code, CAD models, simulation data
 
 The goal of this project is to develop a functional robotic welding system integrating a **UFactory xArm 850** with welding hardware and sensing. The system will be capable of performing automated weld paths with repeatability, safety, and process parameter logging.
 
+![Weld Cell Assembly V1](./Documentation/Images/CellAssemRev1.png)
+(First Iteration of Welding Assembly)
+
 ## Repository Structure
 * 📁 Roam-Robotic_Welding_SD
   * /cad/ → Final and working CAD assemblies & components
