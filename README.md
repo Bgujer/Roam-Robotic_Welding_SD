@@ -52,7 +52,7 @@ written permission from ROAM.
 
 ## 👥 Contributors
 
-| Name | Role | Responsibilities |\
+| Name | Role | Responsibilities |
 
 | Ben Gujer | Controls Focus | Welder Integration, Safety |\
 | Dexter Shafer-White | Controls Focus | xArm control scripts, path planning logic |\
